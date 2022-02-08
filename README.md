@@ -67,3 +67,8 @@ For the given dataset I conducted two experiment.
 - Optimizer: Adam Optimizer
 - Learning Rate: 0.001
 - Epoch: 20
+
+
+## Author
+
+- [@RahatKaderKhan](https://github.com/rahatkader)
